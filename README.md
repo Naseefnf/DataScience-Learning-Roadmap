@@ -1,6 +1,6 @@
 # 🧠 Data Science Learning Roadmap
 
-** Welcome to my Data Science Learning Roadmap repository! **
+Welcome to my Data Science Learning Roadmap repository!
 This repo is a structured week-by-week guide to help you learn and practice key concepts in Data Science, starting from the basics and progressing toward advanced topics.
 
 Each week focuses on a specific area — like NumPy, Pandas, Matplotlib, and more — with hands-on Jupyter Notebooks to help you learn by doing.
