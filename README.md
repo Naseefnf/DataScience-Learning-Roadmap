@@ -6,8 +6,6 @@
 ![Last%20Commit](https://img.shields.io/github/last-commit/mohammed-naseef/DataScience-Learning-Roadmap)
 
 
-# 🧠 Data Science Learning Roadmap
-
 Welcome to my Data Science Learning Roadmap repository!
 This repo is a structured week-by-week guide to help you learn and practice key concepts in Data Science, starting from the basics and progressing toward advanced topics.
 
