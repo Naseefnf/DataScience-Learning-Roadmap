@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-In_Progress-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Last%20Commit](https://img.shields.io/github/last-commit/mohammed-naseef/DataScience-Learning-Roadmap)
+
 
 
 Welcome to my Data Science Learning Roadmap repository!
