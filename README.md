@@ -27,14 +27,6 @@ If you’re passionate about learning Data Science, use this as an outline — e
 3. Follow along with the exercises and experiment with your own data.
 
 
-## 🔗 Stay Connected
-
-I post updates, insights, and progress regularly on LinkedIn.
-📲 Follow me for weekly Data Science content and roadmap updates:
-
-👉[Mohammed Naseef on LinkedIn](https://www.linkedin.com/in/mohammed-naseefnf/)
-
-
 ## ⚡ Contribution
 
 This is a personal learning roadmap, but if you have ideas, improvements, or suggestions — feel free to open an issue or pull request. Let’s grow together as data enthusiasts!
@@ -46,4 +38,12 @@ This repository is not a finished product — it’s a living roadmap that grows
 If you’re truly passionate about Data Science, take this as a starting point and research deeper into each concept.
 
 Keep learning, stay curious, and push your limits. 🚀
+
+## 🔗 Stay Connected
+
+I post updates, insights, and progress regularly on LinkedIn.
+📲 Follow me for weekly Data Science content and roadmap updates:
+
+👉[Mohammed Naseef on LinkedIn](https://www.linkedin.com/in/mohammed-naseefnf/)
+
    
