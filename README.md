@@ -1,5 +1,4 @@
-#
-🧠 Data Science Learning Roadmap
+# 🧠 Data Science Learning Roadmap
 ![Status](https://img.shields.io/badge/Status-In_Progress-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
