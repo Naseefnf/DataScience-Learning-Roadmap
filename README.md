@@ -13,7 +13,7 @@ This roadmap is designed to give you a clear, practical path to start your Data 
 If you're passionate about learning Data Science, use this as an outline — explore deeper topics, experiment with datasets, and keep building projects as you go.
 
 ## ⚡ Contribution
-This is a learning roadmap, but if you have ideas, improvements, or suggestions — feel free to open an issue or pull request. Let's grow together as data enthusiasts!
+This is a learning roadmap, but if you have ideas,improvements, or suggestions — feel free to open an issue or pull request. Let's grow together as data enthusiasts!
 
 ## 🧠 Final Note
 This repository is not a finished product — it's a living roadmap that grows every week.
