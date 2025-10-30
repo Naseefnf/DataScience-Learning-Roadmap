@@ -1,0 +1,66 @@
+**Exploratory Data Analysis (EDA)**
+
+EDA is the process of analyzing data sets to summarize their main characteristics using visual and statistical methods. This folder contains notes and code examples for key EDA steps.
+
+Steps in EDA
+1. Handling Null Values (Missing Values)
+Detection:
+
+isnull(), info(), describe()
+
+Imputation Methods:
+
+Mean/Median/Mode Imputation: Replace missing values with column mean, median, or mode
+
+Forward/Backward Fill: Propagate next/previous valid value (ffill, bfill)
+
+Constant Value: Fill with zero or a specific value
+
+KNN Imputation: Use nearest neighbors
+
+Drop Missing: Remove rows/columns with missing values
+
+2. Handling Outliers
+Detection Methods:
+
+Boxplot Visualization
+
+Z-Score Method: Identify values beyond a threshold (e.g., |z| > 3)
+
+IQR Rule: Values outside Q1 - 1.5×IQR or Q3 + 1.5×IQR
+
+Treatment Methods:
+
+Capping (Winsorization): Set outliers to nearest acceptable value
+
+Trimming: Remove outliers
+
+Transformation: Apply log, sqrt, etc.
+
+Imputation: Replace outliers with median or other statistics
+
+3. Encoding Categorical Variables
+Methods:
+
+Label Encoding: Assign integer codes
+
+One-Hot Encoding: Binary columns for each category (get_dummies())
+
+Ordinal Encoding: For ordered categories
+
+Target Encoding: Replace categories with target mean
+
+Frequency Encoding: Replace categories with count/frequency
+
+4. Feature Scaling
+Methods:
+
+Min-Max Scaling: Scale values to​
+
+Standardization (Z-Score): Mean=0, Std=1
+
+Robust Scaling: Use median and IQR
+
+MaxAbs Scaling: Scale by maximum absolute value
+
+Log Transformation: For skewed features
